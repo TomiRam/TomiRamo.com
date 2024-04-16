@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66330748.css",
+    "main.js": "/static/js/main.a3c39cc0.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Beach.png": "/static/media/Beach.699fac03cb790ec182d3.png",
+    "static/media/Meikä.png": "/static/media/Meikä.e357aaab72250374b353.png",
+    "index.html": "/index.html",
+    "main.66330748.css.map": "/static/css/main.66330748.css.map",
+    "main.a3c39cc0.js.map": "/static/js/main.a3c39cc0.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66330748.css",
+    "static/js/main.a3c39cc0.js"
+  ]
+}
