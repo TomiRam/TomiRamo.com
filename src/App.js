@@ -38,6 +38,7 @@ function App() {
         <a href ="https://tomiram.itch.io/">Itchio</a>
         <a href ="https://www.instagram.com/tomstrongsteel/">Instagram</a>
         <a href ="https://www.facebook.com/tomi.a.ramo">Facebook</a>
+         <a href ="https://www.freecodecamp.org/Tomram">Freecodecamp</a>
         <a href="mailto:t0m1r4m@gmail.com"> Send an Email to me</a>
         <h2>Current Time:{formattedTime}</h2>
       </header>
