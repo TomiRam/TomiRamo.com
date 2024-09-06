@@ -31,7 +31,7 @@ function App() {
         <h1>Tomi Rämö</h1>
         <p>
         Hello Im a indie game developer from Finland and 
-        im currently developing my first indie game with Unity . 
+         my first indie game with Unity is currently in development . 
         </p>
         <a href="https://github.com/TomiRam" >Github</a>
         <a href="https://www.linkedin.com/in/tomi-r%C3%A4m%C3%B6-54b925153/" >LinkedIn</a>
